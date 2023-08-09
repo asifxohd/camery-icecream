@@ -86,13 +86,13 @@ body{
 }
 
 .ad-about{
-    color: white;
+    color: #FFFFFF;
     font-family: 'Montserrat';
     font-size: 13px;
     margin-bottom: -20px;
 }
 .ad-line{
-    color: white;
+    color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     font-size: 26px;
@@ -101,7 +101,7 @@ body{
 
 }
 .para{
-    color: white;
+    color: #FFFFFF;
     font-family: 'Montserrat';
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
